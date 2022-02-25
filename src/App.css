@@ -29,7 +29,7 @@ a {
     background:-ms-radial-gradient(circle at 3% 25%, rgba(0, 40, 99, 1) 0%, rgba(4, 12, 24, 1) 99%);
 
     /* global 92%+ browsers support */
-    background:radial-gradient(circle at 3% 25%, rgba(0, 40, 99, 1) 0%, rgba(4, 12, 24, 1) 99%);
+    background:radial-gradient(circle at 3% 25%, hsl(216, 100%, 19%) 0%, #040c18 99%);
 
 }
 
