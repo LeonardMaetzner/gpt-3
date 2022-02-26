@@ -23,7 +23,7 @@ const Menu = () => (
           </a>
         </p>
         <p>
-          <a href="#features">
+          <a href="#casestudies">
             Case Studies
           </a>
         </p>
